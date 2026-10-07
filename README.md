@@ -1,10 +1,34 @@
 # Projeto-de-Gerencia
 Um projeto da faculdade da diciplina de gerencia.
 
-Equipe:
+## Sobre o Projeto
 
-Alissom Silva - Scrum Master (SM)
+Um sistema web desenvolvido com o objetivo de auxiliar pessoas que estão começando a investir.
 
-Jose Lucas - Product Owner (PO)
+A plataforma permite comparar diferentes opções de investimento de forma simples, organizada e acessível, apresentando informações relevantes para que o usuário possa analisar as alternativas disponíveis antes de tomar uma decisão.
 
-Zeton - Analista de Qualidade (QA)
+---
+## Problema
+
+Para quem está começando a investir, escolher entre diferentes opções pode ser uma tarefa difícil.
+
+Existem diversos tipos de investimentos, cada um com características, níveis de risco, prazos e possíveis retornos diferentes. Além disso, as informações necessárias para realizar uma comparação podem estar espalhadas em diferentes fontes, dificultando a análise para quem ainda não possui conhecimento sobre o mercado financeiro.
+
+### Principais dificuldades
+
+| Dificuldade                                         |
+| --------------------------------------------------- |
+| Falta de conhecimento sobre investimentos           |
+| Dificuldade para encontrar informações relevantes   |
+| Dificuldade para comparar diferentes opções         |
+| Excesso de informações para investidores iniciantes |
+| Insegurança na hora de tomar uma decisão            |
+
+---
+## Equipe
+
+| Integrante           | Papel                 |  Sigla |
+| :------------------- | :-------------------- | :----: |
+|**Alissom Silva**     | Scrum Master          | **SM** |
+|**Jose Lucas**        | Product Owner         | **PO** |
+|**Zeton**             | Analista de Qualidade | **QA** |
